@@ -6,14 +6,14 @@
 
 ## Some Goals To Achieve For Manga Reader:
 - [x]  Select a zip file and get file name and contents.
-- [~]  Sort zip file contents according to manga page number at the end of file name. 
-- [~]  Show manga chapter's pages according to page number.
+- [x]  Sort zip file contents according to manga page number at the end of file name. 
+- [x]  Show manga chapter's pages according to page number.
 - [ ]  Page Display mode settings.
-  * Fit Width
-  * Fit Height
-  * Continious(For Manhuas which are one continious image through chapter)
-  * 2 page view
-  * search, check and add any other good view modes
+  - [ ] Fit Width
+  - [ ] Fit Height
+  - [ ] Continious(For Manhuas which are one continious image through chapter)
+  - [ ] 2 page view
+  - [ ] Search, check and add any other good view modes
 - [ ]  Pagination (back, forward, go to Nth page)  
 
 ## To run the project
