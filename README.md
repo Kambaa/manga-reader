@@ -14,7 +14,8 @@
   - [ ] Continious(For Manhuas which are one continious image through chapter)
   - [ ] 2 page view
   - [ ] Search, check and add any other good view modes
-- [ ]  Pagination (back, forward, go to Nth page)  
+- [ ] Pagination (back, forward, go to Nth page)  
+- [ ] Chapter page re-sorting, and downloading sorted chapter as new zip
 
 ## To run the project
 
