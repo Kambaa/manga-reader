@@ -16,6 +16,25 @@
   - [ ] Search, check and add any other good view modes
 - [ ] Pagination (back, forward, go to Nth page)  
 - [ ] Chapter page re-sorting, and downloading sorted chapter as new zip
+- [ ] Open,select or fetch  zip files remotely(decide and update this later)
+- [ ] Manga Listing
+  - [ ] Manga entity(name, genre, etc... decide and update this later)
+  - [ ] Manga searching( decide search type and mechanisms and update this later)
+  - [ ] Paginated listing
+  - [ ] Some new manga fetching ideas.
+- [ ] User area
+  - [ ] Authantication/Authorization mechanism (decide and update this later)
+  - [ ] Manga Fav'ing ( decide and update this later)
+  - [ ] Sharing custom manga lists.
+  - [ ] Tracking mangas
+  - [ ] Sub'bing mangas
+  - [ ] User Types(reader, collaboration type(coordinator,raw provider,redrawer, translator, proofreader)
+  - [ ] Translation teaming, team member selection, team supporting
+  - [ ] Manga Translation Collaboration
+    - [ ] CRUD of mangas/chapters/pages with some kind of confirmation mechanism
+    - [ ] Realtime image editing/collaboration online (search for solutions)
+    - [ ] Translate, redraw, proofreading feasability tests.
+    - [ ] Reporting a work (sniping etc.)
 
 ## To run the project
 
