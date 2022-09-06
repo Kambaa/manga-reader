@@ -25,6 +25,7 @@
 - [ ] User area
   - [ ] Authantication/Authorization mechanism (decide and update this later)
   - [ ] Manga Fav'ing ( decide and update this later)
+  - [ ] Reading tracker / read unread chapter 
   - [ ] Sharing custom manga lists.
   - [ ] Tracking mangas
   - [ ] Sub'bing mangas
