@@ -5,7 +5,7 @@
 ### A zipped manga chapter reader for learning svelte. If you have zip file that contains a manga chapter, and file names starts with a common name and ends with page number(i.e: commonpart1.jpg,commonpart2.jpg,...etc), this project can read the zip file and prints the page as the given page numbers.
 
 ## Some Goals To Achieve For Manga Reader:
-- [x]  Select a zip file and get file name and contents.
+- [x]  Select a zip file and get file name and contents(using JSZip).
 - [x]  Sort zip file contents according to manga page number at the end of file name. 
 - [x]  Show manga chapter's pages according to page number.
 - [ ]  Page Display mode settings.
